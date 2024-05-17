@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Masrur Alam's Homepage"
+title                    : "Masrur's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Md Masrur Alam"
+  name             : "Md Masrur Ul Alam"
   pronouns         : # example: "she/her"  
   bio              : "Aspirant ML/DL Researcher"
   location         : "Rajshahi, Bangladesh"
