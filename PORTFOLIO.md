@@ -1,7 +1,9 @@
------
------
+# Projects 
+----
 ## Ongoing Projects
------
-### Project Title: sdfjs;adfsjfkjsdfldjfj
------
-hello this is some project caught somewhere in time.... 
+----
+**Project 1:** Title of the work
+----
+Supervisor:sfsgfsfdgdfgsgf
+Summary fskdfksdfskdlf;lsdfkklsdf;
+
