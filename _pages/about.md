@@ -21,7 +21,7 @@ My Primary Research Interests Include:
 # Selected Experience
 
 ## 👨🏻‍🔬 Professional Experience
-I have worked as a **Linux OS Content Developer Executive (LCDE)** at SOFTEKO where I worked on the **LinuxSimply** project. As an LCDE, I have contributed to developing 40+ seasoned articles on **Linux Distros** and **Bash Scripting**. I was responsible for writing articles that were top-ranked by **Google**. 
+I have worked as a **Linux OS Content Developer Executive (LCDE)** at **SOFTEKO** where I worked on the **LinuxSimply** project. As an LCDE, I have contributed to developing 40+ seasoned articles on **Linux Distros** and **Bash Scripting**. I was responsible for writing articles that were top-ranked by **Google**. 
 See my [author's profile](https://linuxsimply.com/author/masrur/) and article if you are interested. 
 
 Site-wide configuration
