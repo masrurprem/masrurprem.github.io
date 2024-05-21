@@ -21,9 +21,8 @@ My Primary Research Interests Include:
 # Selected Experience
 
 ## 👨🏻‍🔬 Professional Experience
-Currently, I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+I have worked as a **Linux OS Content Developer Executive (LCDE)** at SOFTEKO where I worked on the Linuxsimply project. As an LCDE, I have contributed to developing 40+ seasoned articles on Linux and Bash scripting. I was responsible for writing articles that were top-ranked by Google. 
+See my [author's profile](https://linuxsimply.com/author/masrur/) and article if you are interested. 
 
 Site-wide configuration
 ------
