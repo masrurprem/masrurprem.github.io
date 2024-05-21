@@ -18,6 +18,7 @@ My Primary Research Interests Include:
 3. Data Mining
 4. NLP
 
+# Selected Experience
 
 ## 👨🏻‍🔬 Professional Experience
 Currently, I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
