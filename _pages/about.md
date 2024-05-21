@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Md. Masrur Ul Alam. I have completed my BSc. in Electronics & Communication Engineering from Khulna University of Engineering and Technology (KUET).
+I have completed my BSc. in Electronics & Communication Engineering from Khulna University of Engineering and Technology (KUET).
 
 
 🔬 Research Interests
