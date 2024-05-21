@@ -12,5 +12,6 @@ in this work, we made an ML model
 jaldkas;kd
 
 ## Completed Projects
+See my [portfolio website](https://cse.osu.edu/people/arora.9) for more details
 
 
