@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Academic website for Md Masrur Alam"
+title: "👋🏼 Hello there, I'm Md Masrur Ul Alam!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am Md.Masrur Ul Alam. I have completed my B.Sc in Electronics & Communication Engineering from Khulna University of Engineering and Technology (KUET).
+Hello! I am Md. Masrur Ul Alam. I have completed my BSc. in Electronics & Communication Engineering from Khulna University of Engineering and Technology (KUET).
 
 
-Research Interests
+🔬 Research Interests
 ======
 My Primary Research Interests Include:
 1. Machine Learning/ Deep Learning
