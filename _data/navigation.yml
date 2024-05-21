@@ -4,7 +4,7 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: /publications/
+    url: /paper/
 
   #- title: "Projects"
    # url: /projects/    
