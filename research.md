@@ -23,3 +23,13 @@ Assistant Professor (on Leave)
 Khulna University of Engineering & Technology (KUET), Bangladesh
 
 **Updates**: Will be shared soon.  
+
+## Undergraduate Research  
+
+**Supervisor**: Dr. Md. Foisal Hossain, Professor
+
+Department of Electronics and Communication Engineering
+
+Khulna University of Engineering & Technology (KUET)
+
+**Updates**: Will be shared soon.  
