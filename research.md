@@ -15,8 +15,11 @@ Dhaka University of Engineering and Technology (DUET), Bangladesh
 ## Research 2: Medical Report Generation from Chest X-Ray Images Using Deep Learning 
 
 **Supervisor**: [Md Kamrul Hasan](https://med-ai.netlify.app/), Post Graduate Researcher
+
 PhD Candidate, Imperial College London
+
 Assistant Professor (on Leave)
+
 Khulna University of Engineering & Technology (KUET), Bangladesh
 
 **Updates**: Will be shared soon.  
