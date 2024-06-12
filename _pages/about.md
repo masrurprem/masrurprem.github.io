@@ -12,11 +12,12 @@ I have completed my BSc. in Electronics & Communication Engineering from Khulna 
 
 🔬 Research Interests
 ======
-My Primary Research Interests Include:
+My **research interests** include but not be limited to:
 1. Machine Learning/ Deep Learning
 2. Computer Vision and Medical Imaging
 3. Data Mining
-4. NLP
+4. Informatics
+5. NLP
 
 Visit my [Research](https://masrurprem.github.io/research/) page for updates on the current and completed research.
 
