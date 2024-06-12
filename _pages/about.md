@@ -18,6 +18,8 @@ My Primary Research Interests Include:
 3. Data Mining
 4. NLP
 
+Visit my [Research](https://masrurprem.github.io/research/) page for updates on the current and completed research.
+
 # Selected Experience
 
 ## 📚 Independent Research and Reading Papers
