@@ -24,9 +24,9 @@ Khulna University of Engineering & Technology (KUET), Bangladesh
 
 **Updates**: Will be shared soon.  
 
-## Undergraduate Research 
+# Undergraduate Research 
 
-**Title**: A Deep Learning Approach for ECG Signal-Based Heartbeat Classification for Arrhythmia Detection
+## Title: A Deep Learning Approach for ECG Signal-Based Heartbeat Classification for Arrhythmia Detection
 
 **Supervisor**: Dr. Md. Foisal Hossain, Professor
 
