@@ -22,7 +22,8 @@ Assistant Professor (on Leave)
 
 Khulna University of Engineering & Technology (KUET), Bangladesh
 
-**Updates**: Will be shared soon.  
+**Updates**: Will be shared soon. 
+
 
 # Undergraduate Research 
 
